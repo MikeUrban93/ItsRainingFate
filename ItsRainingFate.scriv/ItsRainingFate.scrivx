@@ -1,0 +1,1441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.16.0" Device="Trinity" Modified="2021-06-23 22:20:15 -0400" ModID="79CA43FD-3F68-46B5-A215-7DAEE49E5D46">
+    <Binder>
+        <BinderItem ID="12" UUID="0AE2E630-2C6F-4267-8B84-1FEBD4DC678D" Created="2007-03-25 17:48:19 -0400" Modified="2021-02-04 03:15:28 -0400" Type="Text">
+            <Title>Novel Format</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Information.png</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+        </BinderItem>
+        <BinderItem ID="0" UUID="6A5B9C1E-49F4-4D4A-9878-728322BDFA2B" Created="2006-11-04 13:27:29 -0400" Modified="2007-03-25 18:00:41 -0400" Type="DraftFolder">
+            <Title>Manuscript</Title>
+            <MetaData>
+                <PageBreakBefore>Yes</PageBreakBefore>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="4" UUID="9E980376-C6E3-48C2-9312-D7F0BE6F4AB2" Created="2006-11-04 13:31:13 -0400" Modified="2021-02-04 04:19:54 -0400" Type="Folder">
+                    <Title>Act One</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem ID="74" UUID="CB9607F7-30DA-4C52-8AD3-A372F634005A" Created="2021-06-18 18:09:10 -0400" Modified="2021-06-18 18:09:14 -0400" Type="Folder">
+                            <Title>Chapter</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="6" UUID="291A5EB7-DA53-44DB-92CD-35229AA003DB" Created="2006-11-04 13:33:03 -0400" Modified="2021-06-17 07:29:31 -0400" Type="Text">
+                                    <Title>Abbie Gets Comfy</Title>
+                                    <MetaData>
+                                        <LabelID>2</LabelID>
+                                        <StatusID>2</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                        <IconFileName>Avatar_AbbieTaylor.png</IconFileName>
+                                        <CustomMetaData>
+                                            <MetaDataItem>
+                                                <FieldID>location</FieldID>
+                                                <Value>Apartment</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>participants</FieldID>
+                                                <Value>Steven
+Abbie</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>place</FieldID>
+                                                <Value>Inside Apartment</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>primarymood</FieldID>
+                                                <Value>Happy</Value>
+                                            </MetaDataItem>
+                                        </CustomMetaData>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>3069,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <CorkboardAndOutliner>
+                                        <CorkboardSettings>
+                                            <FreeformMode>Yes</FreeformMode>
+                                        </CorkboardSettings>
+                                    </CorkboardAndOutliner>
+                                    <Keywords>
+                                        <KeywordID>21</KeywordID>
+                                        <KeywordID>4</KeywordID>
+                                        <KeywordID>6</KeywordID>
+                                    </Keywords>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="75" UUID="1CBDB187-5EAE-4A7F-BD47-500756379312" Created="2021-06-18 18:09:22 -0400" Modified="2021-06-18 18:09:22 -0400" Type="Folder">
+                            <Title>Chapter-1</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="43" UUID="42D9EE2D-2493-4A7E-93B6-C754CC950E63" Created="2021-02-04 03:56:40 -0400" Modified="2021-02-18 00:38:50 -0400" Type="Text">
+                                    <Title>The Break-Up</Title>
+                                    <MetaData>
+                                        <LabelID>2</LabelID>
+                                        <StatusID>2</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                        <IconFileName>Avatar_AbbieTaylor.png</IconFileName>
+                                        <CustomMetaData>
+                                            <MetaDataItem>
+                                                <FieldID>location</FieldID>
+                                                <Value>Apartment</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>participants</FieldID>
+                                                <Value>Steven
+Abbie</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>place</FieldID>
+                                                <Value>Inside Apartment</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>primarymood</FieldID>
+                                                <Value>Dramatic</Value>
+                                            </MetaDataItem>
+                                        </CustomMetaData>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1186,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <Keywords>
+                                        <KeywordID>26</KeywordID>
+                                        <KeywordID>8</KeywordID>
+                                        <KeywordID>9</KeywordID>
+                                        <KeywordID>10</KeywordID>
+                                        <KeywordID>11</KeywordID>
+                                        <KeywordID>13</KeywordID>
+                                    </Keywords>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="76" UUID="F892A173-11DF-4BE6-B31B-88F40F725E0D" Created="2021-06-18 18:09:32 -0400" Modified="2021-06-18 18:09:32 -0400" Type="Folder">
+                            <Title>Chapter-2</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="44" UUID="E70FA217-E483-49F2-B038-A4E48F583CED" Created="2021-02-04 03:58:08 -0400" Modified="2021-02-18 19:53:48 -0400" Type="Text">
+                                    <Title>The Accident</Title>
+                                    <MetaData>
+                                        <LabelID>2</LabelID>
+                                        <StatusID>2</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                        <IconFileName>Avatar_AbbieTaylor.png</IconFileName>
+                                        <CustomMetaData>
+                                            <MetaDataItem>
+                                                <FieldID>location</FieldID>
+                                                <Value>Middle of Nowhere</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>participants</FieldID>
+                                                <Value>Abbie</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>place</FieldID>
+                                                <Value>Roadside</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>primarymood</FieldID>
+                                                <Value>Dramatic</Value>
+                                            </MetaDataItem>
+                                        </CustomMetaData>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1441,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <Keywords>
+                                        <KeywordID>10</KeywordID>
+                                        <KeywordID>11</KeywordID>
+                                        <KeywordID>9</KeywordID>
+                                        <KeywordID>12</KeywordID>
+                                        <KeywordID>13</KeywordID>
+                                    </Keywords>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="46" UUID="54F9540E-A3B9-4721-97C5-AA6EF3598544" Created="2021-02-04 04:00:03 -0400" Modified="2021-02-04 04:00:06 -0400" Type="Folder">
+                    <Title>Act Two</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="73" UUID="681F6633-C801-40E4-A25D-B1A3A7D62158" Created="2021-06-18 18:08:53 -0400" Modified="2021-06-18 18:08:56 -0400" Type="Folder">
+                            <Title>Chapter</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="47" UUID="FCE54DEE-11B4-46EC-828B-DF7A855AD936" Created="2021-02-04 04:00:20 -0400" Modified="2021-02-18 20:00:42 -0400" Type="Text">
+                                    <Title>Help Arrives</Title>
+                                    <MetaData>
+                                        <LabelID>2</LabelID>
+                                        <StatusID>2</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                        <IconFileName>Avatar_AbbieTaylor.png</IconFileName>
+                                        <CustomMetaData>
+                                            <MetaDataItem>
+                                                <FieldID>location</FieldID>
+                                                <Value>Middle of Nowhere</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>participants</FieldID>
+                                                <Value>Noah
+Abbie</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>place</FieldID>
+                                                <Value>Roadside</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>primarymood</FieldID>
+                                                <Value>Hopeful</Value>
+                                            </MetaDataItem>
+                                        </CustomMetaData>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1280,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <Keywords>
+                                        <KeywordID>14</KeywordID>
+                                    </Keywords>
+                                </BinderItem>
+                                <BinderItem ID="48" UUID="80D71460-7EE6-44C2-94CF-0F99A7CCF423" Created="2021-02-04 04:01:58 -0400" Modified="2021-06-17 16:58:04 -0400" Type="Text">
+                                    <Title>Talk In Car</Title>
+                                    <MetaData>
+                                        <LabelID>2</LabelID>
+                                        <StatusID>8</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <IconFileName>Avatar_AbbieTaylor.png</IconFileName>
+                                        <CustomMetaData>
+                                            <MetaDataItem>
+                                                <FieldID>location</FieldID>
+                                                <Value>Middle of Nowhere</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>participants</FieldID>
+                                                <Value>Noah
+Abbie</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>place</FieldID>
+                                                <Value>Carter's Car</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>primarymood</FieldID>
+                                                <Value>Romantic</Value>
+                                            </MetaDataItem>
+                                        </CustomMetaData>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>24035,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <Keywords>
+                                        <KeywordID>14</KeywordID>
+                                        <KeywordID>15</KeywordID>
+                                        <KeywordID>22</KeywordID>
+                                        <KeywordID>23</KeywordID>
+                                        <KeywordID>24</KeywordID>
+                                        <KeywordID>1</KeywordID>
+                                    </Keywords>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="54" UUID="428C7136-7A88-4EB5-9C0E-9F218335D3FA" Created="2021-02-04 04:13:22 -0400" Modified="2021-02-04 04:13:27 -0400" Type="Folder">
+                    <Title>Act Three</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="71" UUID="D4B98FF4-ECF3-4726-8D9A-321E3BB50EEB" Created="2021-06-18 18:07:59 -0400" Modified="2021-06-18 18:08:03 -0400" Type="Folder">
+                            <Title>Chapter</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="55" UUID="18C29E59-CD27-4E66-BF88-92212B992F53" Created="2021-02-04 04:13:30 -0400" Modified="2021-06-18 06:01:34 -0400" Type="Text">
+                                    <Title>Abbie Arrives Home</Title>
+                                    <MetaData>
+                                        <LabelID>2</LabelID>
+                                        <StatusID>8</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <FileExtension>rtf</FileExtension>
+                                        <IconFileName>Avatar_AbbieTaylor.png</IconFileName>
+                                        <CustomMetaData>
+                                            <MetaDataItem>
+                                                <FieldID>location</FieldID>
+                                                <Value>Apartment</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>participants</FieldID>
+                                                <Value>Abbie</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>place</FieldID>
+                                                <Value>Parking Lot</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>primarymood</FieldID>
+                                                <Value>Happy</Value>
+                                            </MetaDataItem>
+                                        </CustomMetaData>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>655,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <Keywords>
+                                        <KeywordID>14</KeywordID>
+                                        <KeywordID>21</KeywordID>
+                                    </Keywords>
+                                </BinderItem>
+                                <BinderItem ID="56" UUID="6FAED9AF-4ECC-47B1-883B-1D32E8AD9680" Created="2021-02-04 04:13:48 -0400" Modified="2021-06-18 06:51:51 -0400" Type="Text">
+                                    <Title>Abbie Talks to Maria before shower.</Title>
+                                    <MetaData>
+                                        <LabelID>2</LabelID>
+                                        <StatusID>8</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <IconFileName>Avatar_AbbieTaylor.png</IconFileName>
+                                        <CustomMetaData>
+                                            <MetaDataItem>
+                                                <FieldID>location</FieldID>
+                                                <Value>Apartment</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>participants</FieldID>
+                                                <Value>Maria
+Abbie</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>place</FieldID>
+                                                <Value>Inside Apartment</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>primarymood</FieldID>
+                                                <Value>Happy</Value>
+                                            </MetaDataItem>
+                                        </CustomMetaData>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>2338,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <Keywords>
+                                        <KeywordID>14</KeywordID>
+                                        <KeywordID>21</KeywordID>
+                                    </Keywords>
+                                </BinderItem>
+                                <BinderItem ID="60" UUID="68D281FB-82A3-41D0-B608-EC8752AFE4B7" Created="2021-02-04 13:24:47 -0400" Modified="2021-06-18 11:18:14 -0400" Type="Text">
+                                    <Title>Abbie In The Shower</Title>
+                                    <MetaData>
+                                        <LabelID>2</LabelID>
+                                        <StatusID>8</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <IconFileName>Avatar_AbbieTaylor.png</IconFileName>
+                                        <CustomMetaData>
+                                            <MetaDataItem>
+                                                <FieldID>location</FieldID>
+                                                <Value>Apartment</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>participants</FieldID>
+                                                <Value>Abbie</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>place</FieldID>
+                                                <Value>Shower</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>primarymood</FieldID>
+                                                <Value>Reflective</Value>
+                                            </MetaDataItem>
+                                        </CustomMetaData>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1893,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <Keywords>
+                                        <KeywordID>14</KeywordID>
+                                        <KeywordID>21</KeywordID>
+                                    </Keywords>
+                                </BinderItem>
+                                <BinderItem ID="58" UUID="EE6053FA-9CDD-4258-A877-448745E3737B" Created="2021-02-04 04:14:37 -0400" Modified="2021-06-18 16:26:05 -0400" Type="Text">
+                                    <Title>Abbie and Maria speak after shower</Title>
+                                    <MetaData>
+                                        <LabelID>2</LabelID>
+                                        <StatusID>8</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <IconFileName>Avatar_AbbieTaylor.png</IconFileName>
+                                        <CustomMetaData>
+                                            <MetaDataItem>
+                                                <FieldID>location</FieldID>
+                                                <Value>Apartment</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>participants</FieldID>
+                                                <Value>Maria
+Abbie</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>place</FieldID>
+                                                <Value>Inside Apartment</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>primarymood</FieldID>
+                                                <Value>Exciting</Value>
+                                            </MetaDataItem>
+                                        </CustomMetaData>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>11727,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <Keywords>
+                                        <KeywordID>14</KeywordID>
+                                        <KeywordID>19</KeywordID>
+                                        <KeywordID>21</KeywordID>
+                                    </Keywords>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="72" UUID="2CB9C610-654D-45D8-9691-1E50A8A0C335" Created="2021-06-18 18:08:29 -0400" Modified="2021-06-18 18:08:34 -0400" Type="Folder">
+                            <Title>Chapter</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="57" UUID="5409EC89-CCEE-492C-9D01-6AF8E5D74BB4" Created="2021-02-04 04:14:17 -0400" Modified="2021-06-18 23:35:51 -0400" Type="Text">
+                                    <Title>Abbie Talks to Steven</Title>
+                                    <MetaData>
+                                        <LabelID>2</LabelID>
+                                        <StatusID>8</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <IconFileName>Avatar_AbbieTaylor.png</IconFileName>
+                                        <CustomMetaData>
+                                            <MetaDataItem>
+                                                <FieldID>location</FieldID>
+                                                <Value>Apartment</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>participants</FieldID>
+                                                <Value>Steven
+Abbie</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>place</FieldID>
+                                                <Value>Inside Apartment</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>primarymood</FieldID>
+                                                <Value>Sad</Value>
+                                            </MetaDataItem>
+                                        </CustomMetaData>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>7808,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <Keywords>
+                                        <KeywordID>13</KeywordID>
+                                        <KeywordID>16</KeywordID>
+                                    </Keywords>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="70" UUID="176AD0B4-756B-4D52-8D6C-DFD16BF35ED4" Created="2021-06-18 18:07:18 -0400" Modified="2021-06-18 18:07:28 -0400" Type="Folder">
+                            <Title>Chapter</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="61" UUID="19F0DB8A-B4ED-477D-8576-C44D450237FD" Created="2021-02-14 18:36:43 -0400" Modified="2021-06-19 00:36:54 -0400" Type="Text">
+                                    <Title>Morning Before Reunion</Title>
+                                    <MetaData>
+                                        <LabelID>4</LabelID>
+                                        <StatusID>8</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <IconFileName>Avatar_AbbieTaylor.png</IconFileName>
+                                        <CustomMetaData>
+                                            <MetaDataItem>
+                                                <FieldID>location</FieldID>
+                                                <Value>Apartment</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>participants</FieldID>
+                                                <Value>Maria
+Abbie</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>place</FieldID>
+                                                <Value>Master Bedroom</Value>
+                                            </MetaDataItem>
+                                        </CustomMetaData>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>1638,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <Keywords>
+                                        <KeywordID>12</KeywordID>
+                                        <KeywordID>14</KeywordID>
+                                        <KeywordID>15</KeywordID>
+                                        <KeywordID>21</KeywordID>
+                                    </Keywords>
+                                </BinderItem>
+                                <BinderItem ID="62" UUID="87AB4CB3-F1D4-4C86-9FB0-E979E4CF830A" Created="2021-02-17 13:05:54 -0400" Modified="2021-06-19 12:06:07 -0400" Type="Text">
+                                    <Title>Maria pulls the car over</Title>
+                                    <MetaData>
+                                        <LabelID>2</LabelID>
+                                        <StatusID>8</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <IconFileName>Avatar_AbbieTaylor.png</IconFileName>
+                                        <CustomMetaData>
+                                            <MetaDataItem>
+                                                <FieldID>location</FieldID>
+                                                <Value>Middle of Nowhere</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>participants</FieldID>
+                                                <Value>Maria
+Abbie</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>place</FieldID>
+                                                <Value>Roadside: Over The Hill</Value>
+                                            </MetaDataItem>
+                                            <MetaDataItem>
+                                                <FieldID>primarymood</FieldID>
+                                                <Value>Reflective</Value>
+                                            </MetaDataItem>
+                                        </CustomMetaData>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>10433,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                    <Keywords>
+                                        <KeywordID>15</KeywordID>
+                                        <KeywordID>14</KeywordID>
+                                        <KeywordID>19</KeywordID>
+                                    </Keywords>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="68" UUID="880DD41A-9569-4A02-BCA2-706ED6CA7AE0" Created="2021-06-18 10:50:33 -0400" Modified="2021-06-18 10:50:47 -0400" Type="Folder">
+                    <Title>Coaching Feedback</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="67" UUID="B5D0D478-A609-4084-AEF3-DB629F2CA4CC" Created="2021-06-18 10:39:05 -0400" Modified="2021-06-18 13:09:54 -0400" Type="Text">
+                            <Title>Coaching Questions</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>951,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="69" UUID="48998DCA-E71A-4A01-B807-D2631DEDD42C" Created="2021-06-18 10:51:09 -0400" Modified="2021-06-19 01:03:54 -0400" Type="Text">
+                            <Title>Story Specific Questions and Issues</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>858,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="77" UUID="C05AE226-E7EE-40B1-900A-2BB0B90C45D3" Created="2021-06-19 11:54:37 -0400" Modified="2021-06-19 11:54:42 -0400" Type="Folder">
+            <Title>Notes</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <Children>
+                <BinderItem ID="78" UUID="8E4BEBBB-7720-45F1-B4FB-655F4D0F8549" Created="2021-06-19 11:55:09 -0400" Modified="2021-06-19 11:56:28 -0400" Type="Text">
+                    <Title>Draft Review Items</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>119,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="17" UUID="399C0CCC-17AD-4B67-A427-02A039B2EC48" Created="2010-10-19 09:06:35 -0400" Modified="2010-10-19 09:06:51 -0400" Type="Folder">
+            <Title>Characters</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Characters (Photo).png</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="41" UUID="BB325DBF-DBD6-4EDD-9DB0-7CD8B4025F17" Created="2021-02-04 03:04:52 -0400" Modified="2021-02-17 13:19:27 -0400" Type="Text">
+                    <Title>Abbie Taylor</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>2167,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="49" UUID="6DC11E18-8E95-494C-87CC-E743098731C7" Created="2021-02-04 04:03:14 -0400" Modified="2021-06-18 15:23:20 -0400" Type="Text">
+                    <Title>Noah Jenkins</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>82,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="45" UUID="95F0247D-53FE-4157-B932-8268F91C65E5" Created="2021-02-04 03:59:39 -0400" Modified="2021-02-04 04:07:07 -0400" Type="Text">
+                    <Title>Steven Briggs</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>49,1</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="50" UUID="A2766E58-D90D-40CA-BB6E-BCB6BDC4AED1" Created="2021-02-04 04:06:19 -0400" Modified="2021-02-04 04:06:54 -0400" Type="Text">
+                    <Title>Maria Montes</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="18" UUID="FFE23E67-34F2-4887-B83B-0EB393BF3CA5" Created="2010-10-19 09:06:37 -0400" Modified="2010-10-19 09:06:56 -0400" Type="Folder">
+            <Title>Places</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Locations (Map).tif</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="42" UUID="74426A18-C47E-406B-999E-B8586F8C4E5B" Created="2021-02-04 03:10:06 -0400" Modified="2021-02-04 03:12:43 -0400" Type="Text">
+                    <Title>Abbie's Apartment</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <IconFileName>Locations (Location Sheet).tiff</IconFileName>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>36,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="51" UUID="90881888-681E-4848-A8A0-292CD6276371" Created="2021-02-04 04:07:26 -0400" Modified="2021-02-04 04:08:49 -0400" Type="Text">
+                    <Title>Road Side</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <IconFileName>Locations (Location Sheet).tiff</IconFileName>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="29" UUID="AC80BE2D-A6AE-4FC8-9E92-60573A7AAECC" Created="2011-07-20 13:15:20 -0400" Modified="2011-07-20 13:15:23 -0400" Type="Folder">
+            <Title>Front Matter</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Front Matter.png</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="14" UUID="B89C2FAA-06BD-433B-BA8B-6BADC30E64FB" Created="2014-06-12 02:52:32 -0400" Modified="2014-06-12 02:52:32 -0400" Type="Folder">
+                    <Title>Manuscript Format</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem ID="40" UUID="DAD0D623-098A-472A-B274-84638F5EF5B1" Created="2015-09-23 21:17:01 -0400" Modified="2015-09-23 21:17:01 -0400" Type="Text">
+                            <Title>Title Page</Title>
+                            <MetaData>
+                                <StatusID>6</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                                <CompileAsIs>Yes</CompileAsIs>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="13" UUID="00B4FA64-D705-4810-B3FB-C566AF858F74" Created="2014-06-12 02:52:32 -0400" Modified="2014-06-12 02:52:32 -0400" Type="Folder">
+                    <Title>Paperback Novel</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem ID="21" UUID="34EA4225-16B4-4E0F-AE80-F3AFE73EC465" Created="2014-06-12 02:52:32 -0400" Modified="2014-06-12 02:52:32 -0400" Type="Text">
+                            <Title>Title Page</Title>
+                            <MetaData>
+                                <StatusID>6</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <CompileAsIs>Yes</CompileAsIs>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                        <BinderItem ID="19" UUID="0D541BA4-BCC5-4D30-9166-9837A8B7FD5B" Created="2014-06-12 02:52:32 -0400" Modified="2014-06-12 02:52:32 -0400" Type="Text">
+                            <Title>Copyright</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <PageBreakBefore>Yes</PageBreakBefore>
+                                <CompileAsIs>Yes</CompileAsIs>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                        <BinderItem ID="16" UUID="E2571F9B-549F-4787-9C23-911289FA706E" Created="2014-06-12 02:52:32 -0400" Modified="2014-06-12 02:52:33 -0400" Type="Text">
+                            <Title>Dedication</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <PageBreakBefore>Yes</PageBreakBefore>
+                                <CompileAsIs>Yes</CompileAsIs>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="11" UUID="00D78C34-591C-4B77-8149-CB18AC21A56C" Created="2014-06-12 02:52:32 -0400" Modified="2014-06-12 02:52:33 -0400" Type="Folder">
+                    <Title>E-Book</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem ID="23" UUID="767D41CE-6E50-4521-ABBA-98962F8712B0" Created="2014-06-12 02:52:33 -0400" Modified="2014-06-12 02:52:33 -0400" Type="Image">
+                            <Title>Cover</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>jpg</FileExtension>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                            <MediaSettings>
+                                <ImageScalesProportionally>No</ImageScalesProportionally>
+                            </MediaSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                        <BinderItem ID="22" UUID="63DA3161-5F56-4083-A486-0040F0E4EA67" Created="2014-06-12 02:52:33 -0400" Modified="2014-06-12 02:52:33 -0400" Type="Text">
+                            <Title>Dedication</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <CompileAsIs>Yes</CompileAsIs>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="1" UUID="4E440BDC-B30D-4B89-8CC6-915C71244EA6" Created="2006-11-04 13:27:29 -0400" Modified="2006-11-04 13:27:29 -0400" Type="ResearchFolder">
+            <Title>Research</Title>
+            <MetaData>
+                <PageBreakBefore>Yes</PageBreakBefore>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="39" UUID="475F1951-26E8-43D7-8BD1-F558DEC3F168" Created="2011-07-20 13:40:07 -0400" Modified="2011-07-20 13:40:11 -0400" Type="Folder">
+                    <Title>Sample Output</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem ID="9" UUID="B7062B18-2083-4146-9AEB-8A5286BD3DAB" Created="2014-04-25 06:49:45 -0400" Modified="2014-04-25 06:49:46 -0400" Type="PDF">
+                            <Title>Standard Manuscript</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                            </MetaData>
+                            <MediaSettings>
+                                <CurrentPDFPage>1</CurrentPDFPage>
+                            </MediaSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                        <BinderItem ID="8" UUID="6A6ADBEA-A468-47E7-8A64-ECD1C441D647" Created="2014-05-10 16:46:54 -0400" Modified="2014-05-10 16:46:54 -0400" Type="PDF">
+                            <Title>Paperback Novel</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>pdf</FileExtension>
+                            </MetaData>
+                            <MediaSettings>
+                                <CurrentPDFPage>1</CurrentPDFPage>
+                            </MediaSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                        <BinderItem ID="10" UUID="A8ED99F6-E116-411A-B5CD-B124F7508B6C" Created="2014-05-02 05:46:35 -0400" Modified="2014-05-02 05:50:26 -0400" Type="Image">
+                            <Title>ADE E-Book</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>jpg</FileExtension>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                            </MetaData>
+                            <MediaSettings>
+                                <ImageScalesProportionally>No</ImageScalesProportionally>
+                            </MediaSettings>
+                            <CorkboardAndOutliner>
+                                <CorkboardSettings>
+                                    <FreeformMode>Yes</FreeformMode>
+                                </CorkboardSettings>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="65" UUID="EA91D349-F1AD-45C6-9D56-464641F8C651" Created="2021-06-17 10:40:05 -0400" Modified="2021-06-17 10:40:48 -0400" Type="Text">
+                    <Title>Questions</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>34,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="20" UUID="0F62E5C2-41F2-41F7-B09A-AF381C34B686" Created="2010-10-19 09:57:18 -0400" Modified="2014-06-12 19:17:27 -0400" Type="Folder">
+            <Title>Template Sheets</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="25" UUID="C8C1A0EF-746C-4C97-AC38-8D7E0AC2C82A" Created="2014-06-12 02:52:57 -0400" Modified="2021-02-04 03:15:28 -0400" Type="Text">
+                    <Title>Character Sketch</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IndexCardImageFileExtension>png</IndexCardImageFileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+                <BinderItem ID="24" UUID="23A06CD3-648A-45E0-AD6E-19BCBC457E00" Created="2014-06-12 02:52:57 -0400" Modified="2014-06-12 02:52:57 -0400" Type="Text">
+                    <Title>Setting Sketch</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                        <IconFileName>Locations (Location Sheet).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <CorkboardSettings>
+                            <FreeformMode>Yes</FreeformMode>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="2" UUID="A097E066-25A9-43C7-9FBE-58A2AED4603E" Created="2006-11-04 13:27:29 -0400" Modified="2006-11-04 13:27:29 -0400" Type="TrashFolder">
+            <Title>Trash</Title>
+            <MetaData>
+                <PageBreakBefore>Yes</PageBreakBefore>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="52" UUID="4AA9AE58-3304-48E6-9303-B110830E2EAD" Created="2021-02-04 04:11:21 -0400" Modified="2021-02-14 19:08:28 -0400" Type="Text">
+                    <Title>Roadside Service Arrives</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <StatusID>8</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Avatar_AbbieTaylor.png</IconFileName>
+                        <CustomMetaData>
+                            <MetaDataItem>
+                                <FieldID>location</FieldID>
+                                <Value>Middle of Nowhere</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>participants</FieldID>
+                                <Value>Noah
+Abbie</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>place</FieldID>
+                                <Value>Roadside</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>primarymood</FieldID>
+                                <Value>Hopeful</Value>
+                            </MetaDataItem>
+                        </CustomMetaData>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="53" UUID="9D724C50-D12E-4D20-9249-04C81055C1F2" Created="2021-02-04 04:12:34 -0400" Modified="2021-02-19 15:21:22 -0400" Type="Text">
+                    <Title>Say Goodbye</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <StatusID>8</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Avatar_AbbieTaylor.png</IconFileName>
+                        <CustomMetaData>
+                            <MetaDataItem>
+                                <FieldID>location</FieldID>
+                                <Value>Middle of Nowhere</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>participants</FieldID>
+                                <Value>Noah
+Abbie</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>place</FieldID>
+                                <Value>Roadside</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>primarymood</FieldID>
+                                <Value>Romantic</Value>
+                            </MetaDataItem>
+                        </CustomMetaData>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Keywords>
+                        <KeywordID>1</KeywordID>
+                        <KeywordID>14</KeywordID>
+                        <KeywordID>17</KeywordID>
+                        <KeywordID>21</KeywordID>
+                        <KeywordID>22</KeywordID>
+                        <KeywordID>23</KeywordID>
+                        <KeywordID>24</KeywordID>
+                    </Keywords>
+                </BinderItem>
+                <BinderItem ID="66" UUID="347EA58A-BCBB-4D68-8E9C-E9E48D003EB1" Created="2021-06-18 10:38:32 -0400" Modified="2021-06-18 10:38:32 -0400" Type="Folder">
+                    <Title></Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="59" UUID="E9668BB2-DFA1-4DB2-9241-F5315325FB5A" Created="2021-02-04 04:15:03 -0400" Modified="2021-02-19 15:34:11 -0400" Type="Text">
+                    <Title>Abbie and Noah Runite Part 1</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <StatusID>8</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Avatar_AbbieTaylor.png</IconFileName>
+                        <CustomMetaData>
+                            <MetaDataItem>
+                                <FieldID>location</FieldID>
+                                <Value>Middle of Nowhere</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>participants</FieldID>
+                                <Value>Noah
+Abbie</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>place</FieldID>
+                                <Value>Roadside</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>primarymood</FieldID>
+                                <Value>Exciting</Value>
+                            </MetaDataItem>
+                        </CustomMetaData>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Keywords>
+                        <KeywordID>14</KeywordID>
+                        <KeywordID>15</KeywordID>
+                        <KeywordID>18</KeywordID>
+                        <KeywordID>19</KeywordID>
+                        <KeywordID>21</KeywordID>
+                        <KeywordID>22</KeywordID>
+                        <KeywordID>23</KeywordID>
+                    </Keywords>
+                </BinderItem>
+                <BinderItem ID="64" UUID="8C6FA296-9F37-4476-84EA-EE86A8D8E0FC" Created="2021-02-19 15:16:06 -0400" Modified="2021-02-19 15:42:38 -0400" Type="Text">
+                    <Title>Abbie and Maria In the car</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <StatusID>8</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Avatar_AbbieTaylor.png</IconFileName>
+                        <CustomMetaData>
+                            <MetaDataItem>
+                                <FieldID>location</FieldID>
+                                <Value>Middle of Nowhere</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>participants</FieldID>
+                                <Value>Maria
+Abbie</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>place</FieldID>
+                                <Value>Roadside</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>primarymood</FieldID>
+                                <Value>Happy</Value>
+                            </MetaDataItem>
+                        </CustomMetaData>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Keywords>
+                        <KeywordID>26</KeywordID>
+                        <KeywordID>15</KeywordID>
+                        <KeywordID>21</KeywordID>
+                        <KeywordID>14</KeywordID>
+                    </Keywords>
+                </BinderItem>
+                <BinderItem ID="63" UUID="2E423A26-F020-4D50-97AE-AEFD86BA631F" Created="2021-02-19 15:15:39 -0400" Modified="2021-02-19 15:42:43 -0400" Type="Text">
+                    <Title>Abbie and Noah Runite Part 2</Title>
+                    <MetaData>
+                        <LabelID>2</LabelID>
+                        <StatusID>8</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Avatar_AbbieTaylor.png</IconFileName>
+                        <CustomMetaData>
+                            <MetaDataItem>
+                                <FieldID>location</FieldID>
+                                <Value>Middle of Nowhere</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>participants</FieldID>
+                                <Value>Noah
+Abbie</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>place</FieldID>
+                                <Value>Roadside</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>primarymood</FieldID>
+                                <Value>Romantic</Value>
+                            </MetaDataItem>
+                        </CustomMetaData>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Keywords>
+                        <KeywordID>1</KeywordID>
+                        <KeywordID>14</KeywordID>
+                        <KeywordID>15</KeywordID>
+                        <KeywordID>16</KeywordID>
+                        <KeywordID>17</KeywordID>
+                        <KeywordID>19</KeywordID>
+                        <KeywordID>21</KeywordID>
+                        <KeywordID>22</KeywordID>
+                        <KeywordID>23</KeywordID>
+                    </Keywords>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+    </Binder>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="2" Color="0.717647 0.949020 0.698039">Abbie</Label>
+            <Label ID="1" Color="0.701961 0.890196 0.976471">Carter</Label>
+            <Label ID="0" Color="0.996078 0.701961 0.733333">Steven</Label>
+            <Label ID="3" Color="0.960784 0.768627 1.000000">Maria</Label>
+            <Label ID="4" Color="0.631373 0.929412 0.639216">Abbie's POV</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="1">To Do</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="6">Title Page</Status>
+            <Status ID="5">Done</Status>
+            <Status ID="7">Needs Timeline</Status>
+            <Status ID="0">Needs Metadata</Status>
+            <Status ID="8">Prepped</Status>
+        </StatusItems>
+    </StatusSettings>
+    <TemplateFolderUUID>0F62E5C2-41F2-41F7-B09A-AF381C34B686</TemplateFolderUUID>
+    <ProjectTargets>
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-12 13:24:39 +0100" IgnoreDeadline="Yes">16000</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2021-06-23 19:50:58 -0400"/>
+    </ProjectTargets>
+    <Collections>
+        <Collection Type="Binder" ID="48DE1CBF-217F-4B94-944D-6D8C97396DCF" Color="0.901961 0.917647 0.933333">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="2655DDF6-4AB8-42CB-A433-1CD76FC351D2" Color="0.901961 0.901961 0.980392">
+            <Title>Search Results</Title>
+            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No"></SearchSettings>
+        </Collection>
+    </Collections>
+    <Keywords>
+        <Keyword ID="1">
+            <Title>Kissing</Title>
+            <Color>0.329412 0.890196 0.913725</Color>
+        </Keyword>
+        <Keyword ID="26">
+            <Title>Crying</Title>
+            <Color>0.419608 0.537255 0.584314</Color>
+        </Keyword>
+        <Keyword ID="2">
+            <Title>Emotions</Title>
+            <Color>0.701961 0.701961 0.701961</Color>
+            <Children>
+                <Keyword ID="8">
+                    <Title>Disappointed</Title>
+                    <Color>0.741176 0.000000 0.000000</Color>
+                </Keyword>
+                <Keyword ID="9">
+                    <Title>Angry</Title>
+                    <Color>0.560784 0.000000 0.000000</Color>
+                </Keyword>
+                <Keyword ID="10">
+                    <Title>Stressful</Title>
+                    <Color>0.749020 0.000000 0.000000</Color>
+                </Keyword>
+                <Keyword ID="11">
+                    <Title>Dramatic</Title>
+                    <Color>0.874510 0.000000 0.000000</Color>
+                </Keyword>
+                <Keyword ID="12">
+                    <Title>Anxious</Title>
+                    <Color>1.000000 0.000000 0.000000</Color>
+                </Keyword>
+                <Keyword ID="13">
+                    <Title>Sad</Title>
+                    <Color>0.000000 0.231373 0.694118</Color>
+                </Keyword>
+                <Keyword ID="14">
+                    <Title>Hopeful</Title>
+                    <Color>1.000000 1.000000 0.000000</Color>
+                </Keyword>
+                <Keyword ID="15">
+                    <Title>Exciting</Title>
+                    <Color>0.764706 0.764706 0.000000</Color>
+                </Keyword>
+                <Keyword ID="16">
+                    <Title>Sentimental</Title>
+                    <Color>0.717647 0.949020 0.698039</Color>
+                </Keyword>
+                <Keyword ID="17">
+                    <Title>Sweet</Title>
+                    <Color>0.596078 0.780392 0.580392</Color>
+                </Keyword>
+                <Keyword ID="18">
+                    <Title>Inspiring</Title>
+                    <Color>0.388235 0.513725 0.376471</Color>
+                </Keyword>
+                <Keyword ID="19">
+                    <Title>Light Humor</Title>
+                    <Color>0.333333 0.000000 0.498039</Color>
+                </Keyword>
+                <Keyword ID="20">
+                    <Title>Comedic</Title>
+                    <Color>0.592157 0.000000 0.886275</Color>
+                </Keyword>
+                <Keyword ID="21">
+                    <Title>Happy</Title>
+                    <Color>0.615686 0.000000 0.925490</Color>
+                </Keyword>
+            </Children>
+        </Keyword>
+        <Keyword ID="3">
+            <Title>Sexual Content</Title>
+            <Color>0.701961 0.701961 0.701961</Color>
+            <Children>
+                <Keyword ID="22">
+                    <Title>Romantic</Title>
+                    <Color>0.960784 0.768627 1.000000</Color>
+                </Keyword>
+                <Keyword ID="23">
+                    <Title>Intimate</Title>
+                    <Color>0.745098 0.596078 0.776471</Color>
+                </Keyword>
+                <Keyword ID="24">
+                    <Title>Sexual Tension</Title>
+                    <Color>0.494118 0.396078 0.517647</Color>
+                </Keyword>
+                <Keyword ID="25">
+                    <Title>Sex</Title>
+                    <Color>0.356863 0.286275 0.372549</Color>
+                </Keyword>
+            </Children>
+        </Keyword>
+        <Keyword ID="4">
+            <Title>Informational</Title>
+            <Color>0.996078 0.960784 0.905882</Color>
+        </Keyword>
+        <Keyword ID="5">
+            <Title>Texting</Title>
+            <Color>0.996078 0.960784 0.905882</Color>
+        </Keyword>
+        <Keyword ID="6">
+            <Title>Setup</Title>
+            <Color>0.996078 0.960784 0.905882</Color>
+        </Keyword>
+        <Keyword ID="7">
+            <Title>Backstory</Title>
+            <Color>0.996078 0.960784 0.905882</Color>
+        </Keyword>
+    </Keywords>
+    <CustomMetaDataSettings>
+        <MetaDataField ID="location" Wraps="Yes">Location</MetaDataField>
+        <MetaDataField ID="place" Wraps="Yes">Place</MetaDataField>
+        <MetaDataField ID="participants" Wraps="Yes">Participants</MetaDataField>
+        <MetaDataField ID="primarymood" Wraps="No">Primary Mood</MetaDataField>
+    </CustomMetaDataSettings>
+    <ProjectProperties>
+        <FullName>The Kindergarten Poet</FullName>
+        <LastName>Urban</LastName>
+        <FirstName>Michael</FirstName>
+    </ProjectProperties>
+    <PrintSettings PaperType="Letter" LeftMargin="72.0001" RightMargin="72.0001" TopMargin="72.0001" BottomMargin="72.0001" Orientation="Portrait" Collates="No" ReverseOrder="No"/>
+    <UserProjectData>
+		<AeonTimeline>
+			<UniqueSyncId>CFB666F0-6F35-4334-8B40-D05A6F83633B</UniqueSyncId>
+			<LastSyncDate>2021-06-18 02:45:11 +0000</LastSyncDate>
+			<AeonSyncDate></AeonSyncDate>
+		</AeonTimeline>
+	</UserProjectData>
+</ScrivenerProject>
