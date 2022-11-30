@@ -1,5 +1,10 @@
 # Changelog
 
+#### 0.0.3.2 - MAU 2022-11-30
+
+1. No changes, just testing git.
+
+----
 #### 0.0.3.1 - MAU 2021-06-20
 
 1. Massive changes and restructuring
